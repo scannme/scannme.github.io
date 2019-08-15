@@ -24,6 +24,12 @@
         <content type="html"><![CDATA[<p>This is first post using [Hexo]</p><h2 id="First-title"><a href="#First-title" class="headerlink" title="First title"></a>First title</h2><h3 id="a-first-subtitle"><a href="#a-first-subtitle" class="headerlink" title="a first subtitle"></a>a first subtitle</h3><p>more info writing</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">printf</span>(<span class="string">"c"</span>));</span><br></pre></td></tr></table></figure><blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p><footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote><blockquote><p>NEW: DevDocs now comes with syntax highlighting. <a href="http://devdocs.io" target="_blank" rel="noopener">http://devdocs.io</a></p><footer><strong>@DevDocs</strong><cite><a href="https://twitter.com/devdocs/status/356095192085962752" target="_blank" rel="noopener">twitter.com/devdocs/status/356095192085962752</a></cite></footer></blockquote><iframe src="url" width="[width]" height="[height]" frameborder="0" allowfullscreen></iframe>]]></content>
       
       
+      <categories>
+          
+          <category> foo </category>
+          
+      </categories>
+      
       
         <tags>
             
